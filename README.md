@@ -17,7 +17,7 @@ This project analyzes Google Analytics data using SQL in BigQuery to extract mea
 
 - **SQL** (BigQuery)
 - **Google Cloud Platform**
-- **Tableau / Looker Studio** for visualizations
+- **Tableau** for visualizations
 
 ## Key Queries
 
