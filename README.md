@@ -17,7 +17,7 @@ This project analyzes Google Analytics data using SQL in BigQuery to extract mea
 
 - **SQL** (BigQuery)
 - **Google Cloud Platform**
-- (Optional) **Tableau / Looker Studio** for visualizations
+- **Tableau / Looker Studio** for visualizations
 
 ## Key Queries
 
@@ -27,7 +27,7 @@ This project analyzes Google Analytics data using SQL in BigQuery to extract mea
 
 See the [`queries/`](./queries) folder for SQL scripts.
 
-## Sample Output (Optional)
+## Sample Output
 
 ![Revenue by Channel](./visuals/revenue_by_channel.png)
 
